@@ -23,5 +23,4 @@ fun serviceLane( casesList: Array<Array<Int>>, widthList: Array<Int>): Array<Int
         outPutArray[i] = narrowest
     }
     return outPutArray
-
 }
